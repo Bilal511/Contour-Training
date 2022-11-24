@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\BilalM\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_2b544b52\CoverageData\_TrainingAPI.594471080\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1af5adf3_002D9e05_002D44ce_002D9a47_002Dde02fc6a0aa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CompareList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6832CFCF-8E12-40AE-BABF-1E7F65457A93::.NETFramework,Version=v4.8::TrainingUnitTests.UnitTest1.CompareList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50c21b53_002Dad82_002D4270_002D91fc_002Db09335d61d2c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CompareList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6832CFCF-8E12-40AE-BABF-1E7F65457A93::.NETFramework,Version=v4.8::TrainingUnitTests.UnitTest1.CompareList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::6832CFCF-8E12-40AE-BABF-1E7F65457A93::.NETFramework,Version=v4.8::TrainingUnitTests.UnitTest1.GetById&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
