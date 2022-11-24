@@ -1,0 +1,13 @@
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\TrainingDataLayer.dll.config
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\TrainingDataLayer.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\TrainingDataLayer.pdb
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\Contour.BaseClient.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\Contour.Localisation.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\obj\Debug\TrainingDataLayer.csproj.AssemblyReference.cache
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\obj\Debug\TrainingDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\obj\Debug\TrainingDataLayer.csproj.CopyComplete
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\obj\Debug\TrainingDataLayer.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingDataLayer\obj\Debug\TrainingDataLayer.pdb

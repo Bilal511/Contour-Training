@@ -1,0 +1,16 @@
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingClientLibrary.dll.config
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingClientLibrary.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingClientLibrary.pdb
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\Contour.BaseClient.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\ContourConstants.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingModels.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingModels.pdb
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\TrainingModels.dll.config
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\obj\Debug\TrainingClientLibrary.csproj.AssemblyReference.cache
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\obj\Debug\TrainingClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\obj\Debug\TrainingClientLibrary.csproj.CopyComplete
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\obj\Debug\TrainingClientLibrary.dll
+C:\Users\BilalM\source\repos\TrainingAPI\TrainingClientLibrary\obj\Debug\TrainingClientLibrary.pdb
